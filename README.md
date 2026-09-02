@@ -24,11 +24,13 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output 
 
 <img width="757" height="241" alt="image" src="https://github.com/user-attachments/assets/7e3f83f6-68d6-4be7-8165-4645329ba0ee" />
 
 
-# Output 
+# Result
+
+Hence, output is obtained successfully
 
 
